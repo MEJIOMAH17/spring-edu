@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=edu.jpoint.spring.springedu.Conf
+org.springframework.context.ApplicationContextInitializer=edu.jpoint.spring.springedu.ProfileValidatorAppCtxInit
